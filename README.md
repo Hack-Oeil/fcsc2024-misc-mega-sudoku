@@ -18,12 +18,12 @@ Fichiers :
 > http://localhost
 
 #### tentez 
-> nc mega-sudoku.cyrhades.fr:4000
+> nc mega-sudoku.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 -----------
 
